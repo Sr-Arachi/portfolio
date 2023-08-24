@@ -1,0 +1,898 @@
+.portfolio {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .portfolio .div {
+    background-color: #11071F;
+    height: 4400px;
+    overflow: hidden;
+    position: relative;
+    width: 1980px;
+  }
+  
+  .portfolio .overlap {
+    height: 4400px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1980px;
+  }
+  
+  .portfolio .background {
+    height: 4298px;
+    left: 0;
+    position: absolute;
+    top: 102px;
+    width: 1980px;
+  }
+  
+  .portfolio .gradient {
+    height: 720px;
+    left: 858px;
+    position: absolute;
+    top: 2580px;
+    width: 642px;
+  }
+  
+  .portfolio .img {
+    height: 700px;
+    left: 739px;
+    position: absolute;
+    top: 1022px;
+    width: 625px;
+  }
+  
+  .portfolio .gradient-2 {
+    height: 700px;
+    left: 1084px;
+    position: absolute;
+    top: 2571px;
+    width: 625px;
+  }
+  
+  .portfolio .gradient-3 {
+    height: 641px;
+    left: 274px;
+    position: absolute;
+    top: 3166px;
+    width: 572px;
+  }
+  
+  .portfolio .gradient-4 {
+    height: 431px;
+    left: 385px;
+    position: absolute;
+    top: 220px;
+    width: 385px;
+  }
+  
+  .portfolio .img-2 {
+    height: 341px;
+    left: 1047px;
+    position: absolute;
+    top: 2762px;
+    width: 583px;
+  }
+  
+  .portfolio .img-3 {
+    height: 341px;
+    left: 460px;
+    position: absolute;
+    top: 3330px;
+    width: 583px;
+  }
+  
+  .portfolio .header {
+    height: 138px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1980px;
+  }
+  
+  .portfolio .text-wrapper {
+    color: #ffffff;
+    font-family: "Plus Jakarta Sans-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    height: 27px;
+    left: 1111px;
+    letter-spacing: 0.4px;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 42px;
+    width: 66px;
+  }
+  
+  .portfolio .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Plus Jakarta Sans-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    height: 27px;
+    left: 1345px;
+    letter-spacing: 0.4px;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 42px;
+    width: 68px;
+  }
+  
+  .portfolio .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Plus Jakarta Sans-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    height: 27px;
+    left: 1581px;
+    letter-spacing: 0.4px;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 42px;
+    width: 49px;
+  }
+  
+  .portfolio .i-m-a-software {
+    color: #ffffff;
+    font-family: "Preahvihear-Regular", Helvetica;
+    font-size: 50px;
+    font-weight: 400;
+    height: 90px;
+    left: 474px;
+    letter-spacing: 1px;
+    line-height: normal;
+    position: absolute;
+    top: 660px;
+    width: 674px;
+  }
+  
+  .portfolio .judges-a-book-by-its {
+    color: transparent;
+    font-family: "Preahvihear-Regular", Helvetica;
+    font-size: 50px;
+    font-weight: 400;
+    height: 126px;
+    left: 727px;
+    letter-spacing: 1px;
+    line-height: 63.3px;
+    position: absolute;
+    top: 379px;
+  }
+  
+  .portfolio .span {
+    color: #ffffff;
+  }
+  
+  .portfolio .text-wrapper-4 {
+    color: #7127ba;
+  }
+  
+  .portfolio .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Preahvihear-Regular", Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    height: 31px;
+    left: 727px;
+    letter-spacing: 0.34px;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    text-decoration: underline;
+    top: 351px;
+  }
+  
+  .portfolio .p {
+    color: #ffffff;
+    font-family: "Preahvihear-Regular", Helvetica;
+    font-size: 11px;
+    font-weight: 400;
+    height: 20px;
+    left: 727px;
+    letter-spacing: 0.22px;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 570px;
+  }
+  
+  .portfolio .a-self-taught-UI-UX {
+    color: #ffffff;
+    font-family: "Preahvihear-Regular", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    height: 120px;
+    left: 477px;
+    letter-spacing: 0.44px;
+    line-height: normal;
+    position: absolute;
+    top: 844px;
+    width: 892px;
+  }
+  
+  .portfolio .text-wrapper-6 {
+    color: #ffffff;
+    font-family: "Preahvihear-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    height: 72px;
+    left: 468px;
+    letter-spacing: 0.8px;
+    line-height: normal;
+    position: absolute;
+    top: 1134px;
+  }
+  
+  .portfolio .hello-i-am-ibrahim {
+    color: transparent;
+    font-family: "Preahvihear-Regular", Helvetica;
+    font-size: 19px;
+    font-weight: 400;
+    height: 20px;
+    left: 707px;
+    letter-spacing: -0.5px;
+    line-height: 97px;
+    position: absolute;
+    text-align: center;
+    top: 245px;
+    white-space: nowrap;
+    width: 245px;
+  }
+  
+  .portfolio .arrow {
+    height: 118px;
+    left: 604px;
+    position: absolute;
+    top: 224px;
+    width: 121px;
+  }
+  
+  .portfolio .ellipse {
+    height: 70px;
+    left: 856px;
+    position: absolute;
+    top: 490px;
+    width: 150px;
+  }
+  
+  .portfolio .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "Preahvihear-Regular", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    height: 45px;
+    left: 458px;
+    letter-spacing: 0.5px;
+    line-height: normal;
+    position: absolute;
+    top: 3904px;
+  }
+  
+  .portfolio .i-m-currently {
+    color: #ffffff;
+    font-family: "Preahvihear-Regular", Helvetica;
+    font-size: 15px;
+    font-weight: 400;
+    height: 108px;
+    left: 458px;
+    letter-spacing: 0.3px;
+    line-height: normal;
+    position: absolute;
+    top: 4022px;
+  }
+  
+  .portfolio .logo {
+    height: 43px;
+    left: 497px;
+    position: absolute;
+    top: 35px;
+    width: 35px;
+  }
+  
+  .portfolio .designation {
+    height: 38px;
+    left: 474px;
+    position: absolute;
+    top: 737px;
+    width: 575px;
+  }
+  
+  .portfolio .overlap-group {
+    height: 38px;
+    position: relative;
+    width: 573px;
+  }
+  
+  .portfolio .currently-i-m-a {
+    color: transparent;
+    font-family: "Preahvihear-Regular", Helvetica;
+    font-size: 21px;
+    font-weight: 400;
+    height: 38px;
+    left: 0;
+    letter-spacing: 0.42px;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 573px;
+  }
+  
+  .portfolio .text-wrapper-8 {
+    color: #1877f2;
+  }
+  
+  .portfolio .group {
+    height: 21px;
+    left: 365px;
+    position: absolute;
+    top: 20px;
+    width: 20px;
+  }
+  
+  .portfolio .experience {
+    height: 193px;
+    left: 463px;
+    position: absolute;
+    top: 1251px;
+    width: 574px;
+  }
+  
+  .portfolio .overlap-2 {
+    height: 197px;
+    left: -22px;
+    position: relative;
+    top: -4px;
+    width: 592px;
+  }
+  
+  .portfolio .rectangle {
+    background: linear-gradient(
+      180deg,
+      rgb(19.08, 3.87, 40.37) 7.29%,
+      rgb(37.16, 15.9, 66.94) 34.38%,
+      rgb(55.97, 17.78, 109.44) 56.77%,
+      rgb(38.34, 16.4, 69.06) 84.9%,
+      rgb(25.36, 6.29, 52.06) 100%
+    );
+    border-radius: 15px;
+    box-shadow: 4px 7px 26px #0000001f;
+    height: 193px;
+    left: 22px;
+    position: absolute;
+    top: 4px;
+    width: 570px;
+  }
+  
+  .portfolio .mask-group {
+    height: 172px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 592px;
+  }
+  
+  .portfolio .text-wrapper-9 {
+    color: #ffffff;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 26px;
+    font-weight: 600;
+    left: 219px;
+    letter-spacing: 0;
+    line-height: 32.5px;
+    position: absolute;
+    top: 50px;
+    white-space: nowrap;
+    width: 256px;
+  }
+  
+  .portfolio .take-your-client {
+    color: #ffffff;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 8px;
+    font-weight: 500;
+    left: 220px;
+    letter-spacing: 0;
+    line-height: 10.5px;
+    position: absolute;
+    top: 85px;
+    width: 232px;
+  }
+  
+  .portfolio .learn-more {
+    height: 33px;
+    left: 217px;
+    position: absolute;
+    top: 116px;
+    width: 121px;
+  }
+  
+  .portfolio .div-wrapper {
+    background-image: url(./rectangle-977-3.svg);
+    background-size: 100% 100%;
+    height: 33px;
+    position: relative;
+    width: 119px;
+  }
+  
+  .portfolio .text-wrapper-10 {
+    color: #ffffff;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 10px;
+    font-weight: 500;
+    left: 19px;
+    letter-spacing: 0;
+    line-height: 15px;
+    position: absolute;
+    text-align: center;
+    top: 10px;
+    white-space: nowrap;
+    width: 77px;
+  }
+  
+  .portfolio .group-2 {
+    height: 115px;
+    left: 72px;
+    position: absolute;
+    top: 40px;
+    width: 122px;
+  }
+  
+  .portfolio .overlap-wrapper {
+    height: 196px;
+    left: 463px;
+    position: absolute;
+    top: 1461px;
+    width: 574px;
+  }
+  
+  .portfolio .overlap-3 {
+    height: 200px;
+    left: -22px;
+    position: relative;
+    top: -4px;
+    width: 592px;
+  }
+  
+  .portfolio .rectangle-2 {
+    background-color: #2b114f;
+    border-radius: 15px;
+    box-shadow: 4px 7px 26px #0000001f;
+    height: 193px;
+    left: 22px;
+    position: absolute;
+    top: 7px;
+    width: 570px;
+  }
+  
+  .portfolio .rectangle-3 {
+    background: linear-gradient(
+      180deg,
+      rgb(19.08, 3.87, 40.37) 7.29%,
+      rgb(37.16, 15.9, 66.94) 34.38%,
+      rgb(55.97, 17.78, 109.44) 56.77%,
+      rgb(38.34, 16.4, 69.06) 84.9%,
+      rgb(25.36, 6.29, 52.06) 100%
+    );
+    border-radius: 15px;
+    box-shadow: 4px 7px 26px #0000001f;
+    height: 193px;
+    left: 22px;
+    position: absolute;
+    top: 7px;
+    width: 570px;
+  }
+  
+  .portfolio .text-wrapper-11 {
+    color: #ffffff;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 26px;
+    font-weight: 600;
+    left: 224px;
+    letter-spacing: 0;
+    line-height: 32.5px;
+    position: absolute;
+    top: 54px;
+    white-space: nowrap;
+    width: 256px;
+  }
+  
+  .portfolio .take-your-client-2 {
+    color: #ffffff;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 8px;
+    font-weight: 500;
+    left: 225px;
+    letter-spacing: 0;
+    line-height: 10.5px;
+    position: absolute;
+    top: 89px;
+    width: 232px;
+  }
+  
+  .portfolio .overlap-group-wrapper {
+    height: 33px;
+    left: 222px;
+    position: absolute;
+    top: 120px;
+    width: 121px;
+  }
+  
+  .portfolio .overlap-group-2 {
+    background-image: url(./rectangle-977-4.svg);
+    background-size: 100% 100%;
+    height: 33px;
+    position: relative;
+    width: 119px;
+  }
+  
+  .portfolio .group-3 {
+    height: 117px;
+    left: 78px;
+    position: absolute;
+    top: 44px;
+    width: 120px;
+  }
+  
+  .portfolio .experience-2 {
+    height: 196px;
+    left: 1055px;
+    position: absolute;
+    top: 1458px;
+    width: 574px;
+  }
+  
+  .portfolio .text-wrapper-12 {
+    color: #ffffff;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 26px;
+    font-weight: 600;
+    left: 219px;
+    letter-spacing: 0;
+    line-height: 32.5px;
+    position: absolute;
+    top: 49px;
+    white-space: nowrap;
+    width: 256px;
+  }
+  
+  .portfolio .take-your-client-3 {
+    color: #ffffff;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 8px;
+    font-weight: 500;
+    left: 220px;
+    letter-spacing: 0;
+    line-height: 10.5px;
+    position: absolute;
+    top: 84px;
+    width: 232px;
+  }
+  
+  .portfolio .learn-more-2 {
+    height: 33px;
+    left: 217px;
+    position: absolute;
+    top: 115px;
+    width: 121px;
+  }
+  
+  .portfolio .overlap-group-3 {
+    background-image: url(./rectangle-977.svg);
+    background-size: 100% 100%;
+    height: 33px;
+    position: relative;
+    width: 119px;
+  }
+  
+  .portfolio .icons {
+    height: 97px;
+    left: 83px;
+    position: absolute;
+    top: 53px;
+    width: 114px;
+  }
+  
+  .portfolio .card {
+    height: 165px;
+    left: 460px;
+    position: absolute;
+    top: 2886px;
+    width: 669px;
+  }
+  
+  .portfolio .portfolio-text {
+    height: 333px;
+    left: 462px;
+    position: absolute;
+    top: 2786px;
+    width: 628px;
+  }
+  
+  .portfolio .a-web-app-for {
+    color: #ccd6f6;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    height: 108px;
+    left: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 126px;
+  }
+  
+  .portfolio .overlap-4 {
+    height: 70px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 287px;
+  }
+  
+  .portfolio .text-wrapper-13 {
+    color: #ccd6f6;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 34px;
+    font-weight: 600;
+    height: 51px;
+    left: 0;
+    letter-spacing: 0.68px;
+    line-height: normal;
+    position: absolute;
+    top: 19px;
+  }
+  
+  .portfolio .featured-project {
+    color: #9757d3;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    height: 24px;
+    left: 0;
+    letter-spacing: 0.32px;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .portfolio .icon-park-solid-wrapper {
+    background-image: url(./icon-park-solid-click.svg);
+    background-size: 100% 100%;
+    height: 31px;
+    left: 73px;
+    position: absolute;
+    top: 302px;
+    width: 31px;
+  }
+  
+  .portfolio .icon-park-solid {
+    height: 31px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 31px;
+  }
+  
+  .portfolio .icon-park-solid-2 {
+    height: 31px;
+    left: 25px;
+    position: absolute;
+    top: 301px;
+    width: 31px;
+  }
+  
+  .portfolio .portfolio-text-2 {
+    height: 329px;
+    left: 961px;
+    position: absolute;
+    top: 3337px;
+    width: 675px;
+  }
+  
+  .portfolio .a-web-app-for-wrapper {
+    background-image: url(./img/Card1.png);
+    background-size: 100% 100%;
+    height: 165px;
+    left: 0;
+    position: absolute;
+    top: 96px;
+    width: 669px;
+  }
+  
+  .portfolio .a-web-app-for-2 {
+    color: #ccd6f6;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 18px;
+    font-weight: 500;
+    height: 108px;
+    left: 34px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 26px;
+  }
+  
+  .portfolio .overlap-5 {
+    height: 70px;
+    left: 382px;
+    position: absolute;
+    top: 0;
+    width: 287px;
+  }
+  
+  .portfolio .featured-project-2 {
+    color: #9757d3;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    height: 24px;
+    left: 141px;
+    letter-spacing: 0.32px;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .portfolio .img-wrapper {
+    background-image: url(./icon-park-solid-click-3.svg);
+    background-size: 100% 100%;
+    height: 31px;
+    left: 596px;
+    position: absolute;
+    top: 298px;
+    width: 31px;
+  }
+  
+  .portfolio .icon-park-solid-3 {
+    height: 31px;
+    left: 548px;
+    position: absolute;
+    top: 297px;
+    width: 31px;
+  }
+  
+  .portfolio .skills {
+    height: 754px;
+    left: 598px;
+    position: absolute;
+    top: 1817px;
+    width: 895px;
+  }
+  
+  .portfolio .social-icons {
+    height: 18px;
+    left: 458px;
+    position: absolute;
+    top: 4162px;
+    width: 110px;
+  }
+  
+  .portfolio .me {
+    height: 259px;
+    left: 461px;
+    position: absolute;
+    top: 306px;
+    width: 258px;
+  }
+  
+  .portfolio .experience-3 {
+    height: 193px;
+    left: 1053px;
+    position: absolute;
+    top: 1251px;
+    width: 574px;
+  }
+  
+  .portfolio .text-wrapper-14 {
+    color: #ffffff;
+    font-family: "Poppins-SemiBold", Helvetica;
+    font-size: 26px;
+    font-weight: 600;
+    left: 217px;
+    letter-spacing: 0;
+    line-height: 32.5px;
+    position: absolute;
+    top: 50px;
+    white-space: nowrap;
+    width: 256px;
+  }
+  
+  .portfolio .take-your-client-4 {
+    color: #ffffff;
+    font-family: "Poppins-Medium", Helvetica;
+    font-size: 8px;
+    font-weight: 500;
+    left: 218px;
+    letter-spacing: 0;
+    line-height: 10.5px;
+    position: absolute;
+    top: 85px;
+    width: 232px;
+  }
+  
+  .portfolio .learn-more-3 {
+    height: 33px;
+    left: 215px;
+    position: absolute;
+    top: 116px;
+    width: 121px;
+  }
+  
+  .portfolio .overlap-group-4 {
+    background-image: url(./rectangle-977-2.svg);
+    background-size: 100% 100%;
+    height: 33px;
+    position: relative;
+    width: 119px;
+  }
+  
+  .portfolio .group-4 {
+    height: 98px;
+    left: 81px;
+    position: absolute;
+    top: 53px;
+    width: 120px;
+  }
+  
+  .portfolio .text-wrapper-15 {
+    color: #000000;
+    font-family: "Preahvihear-Regular", Helvetica;
+    font-size: 22px;
+    font-weight: 400;
+    height: 40px;
+    left: -3977px;
+    letter-spacing: 0.44px;
+    line-height: normal;
+    position: absolute;
+    top: 1065px;
+  }
+  
+  .portfolio .i-m-a-software-2 {
+    color: #000000;
+    font-family: "Poor Story-Regular", Helvetica;
+    font-size: 50px;
+    font-weight: 400;
+    height: 63px;
+    left: -6366px;
+    letter-spacing: 1px;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 300px;
+  }
+  
+  .portfolio .i-m-a-software-3 {
+    color: #000000;
+    font-family: "PoetsenOne-Regular", Helvetica;
+    font-size: 50px;
+    font-weight: 400;
+    height: 60px;
+    left: -5981px;
+    letter-spacing: 1px;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 626px;
+    white-space: nowrap;
+  }
+  
+  .portfolio .linkedin-behance {
+    color: #000000;
+    font-family: "Preahvihear-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    height: 648px;
+    left: -4592px;
+    letter-spacing: 0.8px;
+    line-height: normal;
+    position: absolute;
+    top: 1883px;
+  }
+  
